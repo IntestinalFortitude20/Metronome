@@ -1,0 +1,11 @@
+C:\Users\pruck\source\repos\Metronome\bin\Debug\Metronome.exe.config
+C:\Users\pruck\source\repos\Metronome\bin\Debug\Metronome.exe
+C:\Users\pruck\source\repos\Metronome\bin\Debug\Metronome.pdb
+C:\Users\pruck\source\repos\Metronome\obj\Debug\Metronome.csproj.AssemblyReference.cache
+C:\Users\pruck\source\repos\Metronome\obj\Debug\Metronome.csproj.SuggestedBindingRedirects.cache
+C:\Users\pruck\source\repos\Metronome\obj\Debug\Metronome.Form1.resources
+C:\Users\pruck\source\repos\Metronome\obj\Debug\Metronome.Properties.Resources.resources
+C:\Users\pruck\source\repos\Metronome\obj\Debug\Metronome.csproj.GenerateResource.cache
+C:\Users\pruck\source\repos\Metronome\obj\Debug\Metronome.csproj.CoreCompileInputs.cache
+C:\Users\pruck\source\repos\Metronome\obj\Debug\Metronome.exe
+C:\Users\pruck\source\repos\Metronome\obj\Debug\Metronome.pdb
